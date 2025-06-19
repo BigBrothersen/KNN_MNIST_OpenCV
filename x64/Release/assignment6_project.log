@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 350 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  assignment6_project.vcxproj -> C:\Users\User\Hansen\Documents\CUHK\Term 3\CSC3002\Assessment Scheme\assignment6_project\x64\Release\assignment6_project.exe
